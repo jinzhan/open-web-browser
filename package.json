@@ -1,14 +1,22 @@
 {
   "name": "@jinzhan/open-browser",
   "version": "0.0.1",
-  "description": "",
+  "description": "Attempts to open the browser with a given URL.",
   "main": "open-browser.js",
-  "keywords": [],
+  "keywords": ["open browser", "launch browser"],
   "author": "",
-  "license": "MIT",
   "dependencies": {
     "chalk": "^4.0.0",
     "execa": "^4.0.2",
     "open": "^7.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinzhan/open-browser.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jinzhan/open-browser/issues"
+  },
+  "homepage": "https://github.com/jinzhan/open-browser#readme"
 }
