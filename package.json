@@ -1,8 +1,8 @@
 {
-  "name": "@jinzhan/launch-browser",
+  "name": "@jinzhan/open-browser",
   "version": "0.0.1",
   "description": "",
-  "main": "launch-browser.js",
+  "main": "open-browser.js",
   "keywords": [],
   "author": "",
   "license": "MIT",
