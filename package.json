@@ -1,0 +1,14 @@
+{
+  "name": "launchbrowser",
+  "version": "0.0.1",
+  "description": "",
+  "main": "launch-browser.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "execa": "^4.0.2",
+    "open": "^7.0.4"
+  }
+}
