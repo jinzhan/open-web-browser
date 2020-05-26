@@ -1,5 +1,5 @@
 {
-  "name": "launchbrowser",
+  "name": "@jinzhan/launch-browser",
   "version": "0.0.1",
   "description": "",
   "main": "launch-browser.js",
