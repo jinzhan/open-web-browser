@@ -1,6 +1,6 @@
 {
   "name": "@jinzhan/open-browser",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Attempts to open the browser with a given URL.",
   "main": "open-browser.js",
   "keywords": ["open browser", "launch browser"],
