@@ -1,10 +1,9 @@
 {
-  "name": "start-browser",
+  "name": "open-web-browser",
   "version": "0.1.0",
   "description": "Attempts to open the browser with a given URL.",
   "main": "open-browser.js",
   "keywords": ["open browser", "launch browser", "start browser"],
-  "author": "",
   "dependencies": {
     "chalk": "^4.0.0",
     "execa": "^4.0.2",
@@ -12,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jinzhan/open-browser.git"
+    "url": "git+https://github.com/jinzhan/open-web-browser.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jinzhan/open-browser/issues"
+    "url": "https://github.com/jinzhan/open-web-browser/issues"
   },
-  "homepage": "https://github.com/jinzhan/open-browser#readme"
+  "homepage": "https://github.com/jinzhan/open-web-browser#readme"
 }
