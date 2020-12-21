@@ -11,14 +11,14 @@ Otherwise, falls back to opn behavior.
 ## Installation
 
 ```
-npm install @jinzhan/open-browser
+npm install open-web-browser
 ```
 
 ## Usage (url: string): boolean
 
 ```
 var path = require('path');
-var openBrowser = require('@jinzhan/open-browser');
+var openBrowser = require('open-web-browser');
 
 if (openBrowser('http://localhost:3000')) {
   console.log('The browser tab has been opened!');
