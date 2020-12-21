@@ -1,9 +1,9 @@
 {
-  "name": "@jinzhan/open-browser",
-  "version": "0.1.1",
+  "name": "start-browser",
+  "version": "0.1.0",
   "description": "Attempts to open the browser with a given URL.",
   "main": "open-browser.js",
-  "keywords": ["open browser", "launch browser"],
+  "keywords": ["open browser", "launch browser", "start browser"],
   "author": "",
   "dependencies": {
     "chalk": "^4.0.0",
